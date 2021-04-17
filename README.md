@@ -11,3 +11,8 @@ In some of the projects I used Plotly express for visualization purposes, these 
 
 Link for code video demonstration:
 
+1. [Traffic sign classification/Recognition system](https://www.linkedin.com/posts/jay-khade_task5-gripapril21-dataanalytics-activity-6788916405875159040-hYsI)
+2. [Social Distancing detector](https://www.linkedin.com/posts/jay-khade_task3-gripapril21-dataanalytics-activity-6788914976129208320-1Ydo)
+3. [Prediction using Decision Tree Algorithm](https://www.linkedin.com/posts/jay-khade_task6-gripapril21-dataanalytics-activity-6788912321994616832-urRY)
+4. [Prediction using Unsupervised ML](https://www.linkedin.com/posts/jay-khade_task2-gripapril21-dataanalytics-activity-6788911240132616192-emOk)
+5. [Prediction Using Supervised Machine Learning](https://www.linkedin.com/posts/jay-khade_task1-gripapril21-dataanalytics-activity-6788908803590119424-6C7n)
